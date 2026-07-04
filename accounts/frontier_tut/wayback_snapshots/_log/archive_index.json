@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-04T10:12:15",
+  "last_updated": "2026-07-04T10:12:30",
   "html": {
     "https://web.archive.org/web/20260608165317if_/https://twitter.com/frontier_tut/status/2064027997720674662": {
       "status": "done",
@@ -1398,9 +1398,9 @@
       "referenced_by": [
         "20260626080549_twitter_com_frontier_tut_status_2070418238941634708.json"
       ],
-      "last_updated": "2026-07-04T09:20:52",
+      "last_updated": "2026-07-04T10:12:30",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260626080549/https://video.twimg.com/ext_tw_video/2070418200521801728/pu/vid/avc1/1280x720/emdAlv5egqh2x5ht.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     }
   },
   "avatars": {
