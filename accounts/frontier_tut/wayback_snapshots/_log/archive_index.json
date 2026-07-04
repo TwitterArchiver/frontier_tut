@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-04T10:12:30",
+  "last_updated": "2026-07-04T10:12:49",
   "html": {
     "https://web.archive.org/web/20260608165317if_/https://twitter.com/frontier_tut/status/2064027997720674662": {
       "status": "done",
@@ -1405,7 +1405,7 @@
   },
   "avatars": {
     "https://pbs.twimg.com/profile_images/2063566666492231680/EUfS5XZz_normal.jpg": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20260607104918_twitter_com_frontier_tut_status_2063574011272212721.json",
         "20260607164256_twitter_com_frontier_tut_status_2063663007553794349.json",
@@ -1418,7 +1418,7 @@
         "20260608165317_twitter_com_frontier_tut_status_2064027997720674662.json",
         "20260608170554_twitter_com_frontier_tut_status_2064031175778439224.json"
       ],
-      "last_updated": "2026-07-04T09:21:06",
+      "last_updated": "2026-07-04T10:12:46",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260608170554if_/https://pbs.twimg.com/profile_images/2063566666492231680/EUfS5XZz_normal.jpg",
       "miss_count": 1
     },
@@ -1715,9 +1715,9 @@
       "referenced_by": [
         "20260611100831_twitter_com_frontier_tut_status_2065013299549462974.json"
       ],
-      "last_updated": "2026-07-04T09:21:06",
+      "last_updated": "2026-07-04T10:12:49",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260611100831if_/https://pbs.twimg.com/profile_images/2062129488142745600/diaUaw-P_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg": {
       "status": "done",
@@ -2384,7 +2384,7 @@
       "last_updated": "2026-07-04T09:21:06"
     },
     "20260608144255_twitter_com_frontier_tut_status_2063995190847984073.json": {
-      "status": "failed_all",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HKTIsA-aAAE2onN.jpg"
@@ -2394,7 +2394,7 @@
           "https://pbs.twimg.com/profile_images/2063566666492231680/EUfS5XZz_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-04T10:06:39",
+      "last_updated": "2026-07-04T10:12:46",
       "miss_count": 2
     },
     "20260608165317_twitter_com_frontier_tut_status_2064027997720674662.json": {
