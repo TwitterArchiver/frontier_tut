@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-04T09:21:06",
+  "last_updated": "2026-07-04T10:06:25",
   "html": {
     "https://web.archive.org/web/20260608165317if_/https://twitter.com/frontier_tut/status/2064027997720674662": {
       "status": "done",
@@ -877,6 +877,14 @@
     "https://web.archive.org/web/20260703130626if_/https://twitter.com/frontier_tut/status/2073030608000069910": {
       "status": "done",
       "last_updated": "2026-07-04T09:20:26"
+    },
+    "https://web.archive.org/web/20260703154302if_/https://twitter.com/frontier_tut/status/2073070016023650330": {
+      "status": "done",
+      "last_updated": "2026-07-04T10:06:14"
+    },
+    "https://web.archive.org/web/20260703152812if_/https://twitter.com/frontier_tut/status/2073066282724045282": {
+      "status": "done",
+      "last_updated": "2026-07-04T10:06:14"
     }
   },
   "images": {
@@ -907,13 +915,13 @@
       "last_updated": "2026-07-04T09:20:27"
     },
     "https://pbs.twimg.com/media/HKTIsA-aAAE2onN.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260608144255_twitter_com_frontier_tut_status_2063995190847984073.json"
       ],
-      "last_updated": "2026-07-04T09:20:30",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260608144255/https://pbs.twimg.com/media/HKTIsA-aAAE2onN.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd570ec8860>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-04T10:06:18",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260608144255/https://pbs.twimg.com/media/HKTIsA-aAAE2onN.jpg",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/media/HKTLZFIa0AA99_e.jpg": {
       "status": "done",
@@ -923,13 +931,13 @@
       "last_updated": "2026-07-04T09:20:27"
     },
     "https://pbs.twimg.com/media/HKXIbNZa0AAupuJ.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260609092015_twitter_com_frontier_tut_status_2064276376434467321.json"
       ],
-      "last_updated": "2026-07-04T09:20:30",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260609092015/https://pbs.twimg.com/media/HKXIbNZa0AAupuJ.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd570e8b380>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-04T10:06:17",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260609092015/https://pbs.twimg.com/media/HKXIbNZa0AAupuJ.jpg",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/media/HKXcwIAbsAA3iCM.jpg": {
       "status": "done",
@@ -939,13 +947,13 @@
       "last_updated": "2026-07-04T09:20:27"
     },
     "https://pbs.twimg.com/media/HKcKkcUbMAEkon4.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260610084743_twitter_com_frontier_tut_status_2064630579048677653.json"
       ],
-      "last_updated": "2026-07-04T09:20:29",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260610084743/https://pbs.twimg.com/media/HKcKkcUbMAEkon4.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd570ee6ea0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-04T10:06:17",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260610084743/https://pbs.twimg.com/media/HKcKkcUbMAEkon4.jpg",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/media/HKdUsbxaEAA14nj.jpg": {
       "status": "done",
@@ -955,13 +963,13 @@
       "last_updated": "2026-07-04T09:20:27"
     },
     "https://pbs.twimg.com/media/HKiay7YbcAAWyYX.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260611135620_twitter_com_frontier_tut_status_2065070632342270168.json"
       ],
-      "last_updated": "2026-07-04T09:20:30",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260611135620/https://pbs.twimg.com/media/HKiay7YbcAAWyYX.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd570ecbdd0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-04T10:06:17",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260611135620/https://pbs.twimg.com/media/HKiay7YbcAAWyYX.jpg",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/media/HLIKu6db0AASaN0.jpg": {
       "status": "done",
@@ -1169,13 +1177,13 @@
       "last_updated": "2026-07-04T09:20:27"
     },
     "https://pbs.twimg.com/media/HLrduHVbIAAedQk.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260625184443_twitter_com_frontier_tut_status_2070216636234367366.json"
       ],
-      "last_updated": "2026-07-04T09:20:30",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260625184443/https://pbs.twimg.com/media/HLrduHVbIAAedQk.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd570e8b320>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-04T10:06:20",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260625184443/https://pbs.twimg.com/media/HLrduHVbIAAedQk.jpg",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/media/HLuLJSYbwAA4bi0.jpg": {
       "status": "done",
@@ -1217,9 +1225,9 @@
       "referenced_by": [
         "20260627091614_twitter_com_frontier_tut_status_2070798350191087666.json"
       ],
-      "last_updated": "2026-07-04T09:20:30",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260627091614/https://pbs.twimg.com/media/HLz0HdSbkAAuHgF.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd570e8bd70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-04T10:06:25",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260627091614/https://pbs.twimg.com/media/HLz0HdSbkAAuHgF.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f2bd3e32000>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HL0VpTLaIAAUa5Y.jpg": {
       "status": "done",
@@ -1650,7 +1658,9 @@
         "20260703125628_twitter_com_frontier_tut_status_2073028098300522930.json",
         "20260703130626_twitter_com_frontier_tut_status_2073030608000069910.json",
         "20260703130655_twitter_com_frontier_tut_status_2073030729983008958.json",
-        "20260703142135_twitter_com_frontier_tut_status_2073049521559650636.json"
+        "20260703142135_twitter_com_frontier_tut_status_2073049521559650636.json",
+        "20260703152812_twitter_com_frontier_tut_status_2073066282724045282.json",
+        "20260703154302_twitter_com_frontier_tut_status_2073070016023650330.json"
       ],
       "last_updated": "2026-07-04T09:21:03"
     },
@@ -1773,7 +1783,8 @@
         "20260629143850_twitter_com_frontier_tut_status_2071604308521710001.json",
         "20260629150325_twitter_com_frontier_tut_status_2071610496873382098.json",
         "20260702003510_twitter_com_frontier_tut_status_2072479157158637628.json",
-        "20260702084341_twitter_com_frontier_tut_status_2072602096319549642.json"
+        "20260702084341_twitter_com_frontier_tut_status_2072602096319549642.json",
+        "20260703154302_twitter_com_frontier_tut_status_2073070016023650330.json"
       ],
       "last_updated": "2026-07-04T09:21:03"
     },
@@ -2071,7 +2082,8 @@
         "20260625074038_twitter_com_frontier_tut_status_2070049514598404115.json",
         "20260626082021_twitter_com_frontier_tut_status_2070421898413109340.json",
         "20260628111331_twitter_com_frontier_tut_status_2071190252434375077.json",
-        "20260702122803_twitter_com_frontier_tut_status_2072658560165801989.json"
+        "20260702122803_twitter_com_frontier_tut_status_2072658560165801989.json",
+        "20260703152812_twitter_com_frontier_tut_status_2073066282724045282.json"
       ],
       "last_updated": "2026-07-04T09:21:04"
     },
@@ -2372,7 +2384,7 @@
       "last_updated": "2026-07-04T09:21:06"
     },
     "20260608144255_twitter_com_frontier_tut_status_2063995190847984073.json": {
-      "status": "failed",
+      "status": "failed_all",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HKTIsA-aAAE2onN.jpg"
@@ -2382,7 +2394,8 @@
           "https://pbs.twimg.com/profile_images/2063566666492231680/EUfS5XZz_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-04T09:21:06"
+      "last_updated": "2026-07-04T10:06:18",
+      "miss_count": 1
     },
     "20260608165317_twitter_com_frontier_tut_status_2064027997720674662.json": {
       "status": "done",
@@ -2446,7 +2459,7 @@
       "last_updated": "2026-07-04T09:21:03"
     },
     "20260609092015_twitter_com_frontier_tut_status_2064276376434467321.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HKXIbNZa0AAupuJ.jpg"
@@ -2456,7 +2469,7 @@
           "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-04T09:21:03"
+      "last_updated": "2026-07-04T10:06:17"
     },
     "20260610060241_twitter_com_frontier_tut_status_2064589047562178619.json": {
       "status": "done",
@@ -2473,7 +2486,7 @@
       "last_updated": "2026-07-04T09:21:03"
     },
     "20260610084743_twitter_com_frontier_tut_status_2064630579048677653.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HKcKkcUbMAEkon4.jpg"
@@ -2483,7 +2496,7 @@
           "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-04T09:21:03"
+      "last_updated": "2026-07-04T10:06:17"
     },
     "20260610142512_twitter_com_frontier_tut_status_2064715508323360965.json": {
       "status": "done",
@@ -2575,7 +2588,7 @@
       "last_updated": "2026-07-04T09:21:03"
     },
     "20260611135620_twitter_com_frontier_tut_status_2065070632342270168.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HKiay7YbcAAWyYX.jpg"
@@ -2585,7 +2598,7 @@
           "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-04T09:21:03"
+      "last_updated": "2026-07-04T10:06:17"
     },
     "20260618215146_twitter_com_frontier_tut_status_2067726994528436655.json": {
       "status": "done",
@@ -3675,7 +3688,7 @@
       "last_updated": "2026-07-04T09:21:04"
     },
     "20260625184443_twitter_com_frontier_tut_status_2070216636234367366.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HLrduHVbIAAedQk.jpg"
@@ -3686,7 +3699,7 @@
           "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-04T09:21:03"
+      "last_updated": "2026-07-04T10:06:20"
     },
     "20260625200702_twitter_com_frontier_tut_status_2070237350458953926.json": {
       "status": "done",
@@ -3969,7 +3982,8 @@
           "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-04T09:21:03"
+      "last_updated": "2026-07-04T10:06:20",
+      "miss_count": 1
     },
     "20260627104135_twitter_com_frontier_tut_status_2070819829096009975.json": {
       "status": "done",
@@ -5022,6 +5036,30 @@
         ]
       },
       "last_updated": "2026-07-04T09:21:04"
+    },
+    "20260703152812_twitter_com_frontier_tut_status_2073066282724045282.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2004237862188077060/YsGyZIA-_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-07-04T10:06:14"
+    },
+    "20260703154302_twitter_com_frontier_tut_status_2073070016023650330.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2054062701526261760/NSLbXR-i_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-07-04T10:06:14"
     }
   }
 }
