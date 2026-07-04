@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068915141325017088",
+        "3_2068915127597080576",
+        "3_2068914819437408256"
+      ]
+    },
+    "author_id": "2063564638328147968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2068915211202150718",
+    "created_at": "2026-06-22T04:33:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T05:33:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068915211202150718"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/du9SJH29y1",
+          "end": 57,
+          "expanded_url": "https://x.com/frontier_tut/status/2068915211202150718/photo/1",
+          "media_key": "3_2068915141325017088",
+          "start": 34,
+          "url": "https://t.co/du9SJH29y1"
+        },
+        {
+          "display_url": "pic.x.com/du9SJH29y1",
+          "end": 57,
+          "expanded_url": "https://x.com/frontier_tut/status/2068915211202150718/photo/1",
+          "media_key": "3_2068915127597080576",
+          "start": 34,
+          "url": "https://t.co/du9SJH29y1"
+        },
+        {
+          "display_url": "pic.x.com/du9SJH29y1",
+          "end": 57,
+          "expanded_url": "https://x.com/frontier_tut/status/2068915211202150718/photo/1",
+          "media_key": "3_2068914819437408256",
+          "start": 34,
+          "url": "https://t.co/du9SJH29y1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068915211202150718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁不想在生日当天急头白脸吃一顿寿司郎（呃太贵了有无人愿意给我报销🥺 https://t.co/du9SJH29y1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1638,
+        "media_key": "3_2068915141325017088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZDXAUa0AAgbMa.jpg",
+        "width": 1229
+      },
+      {
+        "height": 1229,
+        "media_key": "3_2068915127597080576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZDWNLbIAAYEj-.jpg",
+        "width": 1638
+      },
+      {
+        "height": 691,
+        "media_key": "3_2068914819437408256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZDERMbsAAOUYI.jpg",
+        "width": 691
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068915141325017088",
+            "3_2068915127597080576",
+            "3_2068914819437408256"
+          ]
+        },
+        "author_id": "2063564638328147968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068915211202150718",
+        "created_at": "2026-06-22T04:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068915211202150718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/du9SJH29y1",
+              "end": 57,
+              "expanded_url": "https://x.com/frontier_tut/status/2068915211202150718/photo/1",
+              "media_key": "3_2068915141325017088",
+              "start": 34,
+              "url": "https://t.co/du9SJH29y1"
+            },
+            {
+              "display_url": "pic.x.com/du9SJH29y1",
+              "end": 57,
+              "expanded_url": "https://x.com/frontier_tut/status/2068915211202150718/photo/1",
+              "media_key": "3_2068915127597080576",
+              "start": 34,
+              "url": "https://t.co/du9SJH29y1"
+            },
+            {
+              "display_url": "pic.x.com/du9SJH29y1",
+              "end": 57,
+              "expanded_url": "https://x.com/frontier_tut/status/2068915211202150718/photo/1",
+              "media_key": "3_2068914819437408256",
+              "start": 34,
+              "url": "https://t.co/du9SJH29y1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068915211202150718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁不想在生日当天急头白脸吃一顿寿司郎（呃太贵了有无人愿意给我报销🥺 https://t.co/du9SJH29y1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Utsunomiya-shi, Tochigi, Japan",
+              "geo": {
+                "coordinates": [
+                  139.88361,
+                  36.56583
+                ],
+                "type": "Point"
+              },
+              "locality": "Utsunomiya-shi",
+              "region": "Tochigi"
+            }
+          ]
+        },
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼\n|十代目账号\n|姐姐大人 @Tsukiyasakura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Tsukiyasakura"
+              }
+            ]
+          }
+        },
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "pinned_tweet_id": "2063574011272212721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 69,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "frontier_tut",
+        "verified": false
+      }
+    ]
+  }
+}

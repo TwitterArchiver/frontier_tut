@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063564638328147968",
+    "conversation_id": "2069419749977854415",
+    "created_at": "2026-06-23T14:10:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:10:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069422764872860115"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069422764872860115",
+    "in_reply_to_user_id": "2063564638328147968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069419749977854415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "22:08 注射1mg沙丁胺醇 希望缓解一点呼吸抑制 我现在不强行控制呼吸一口气都吸不上😰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069419163345715200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgNw8qbgAABhYL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063564638328147968",
+        "conversation_id": "2069419749977854415",
+        "created_at": "2026-06-23T14:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069422764872860115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069422764872860115",
+        "in_reply_to_user_id": "2063564638328147968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069419749977854415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "22:08 注射1mg沙丁胺醇 希望缓解一点呼吸抑制 我现在不强行控制呼吸一口气都吸不上😰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069419163345715200"
+          ]
+        },
+        "author_id": "2063564638328147968",
+        "conversation_id": "2069419749977854415",
+        "created_at": "2026-06-23T13:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069419749977854415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 69,
+              "id": "2032059814348754944",
+              "start": 57,
+              "username": "KrvyScorpii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m0RPi4TNMQ",
+              "end": 102,
+              "expanded_url": "https://x.com/frontier_tut/status/2069419749977854415/photo/1",
+              "media_key": "3_2069419163345715200",
+              "start": 79,
+              "url": "https://t.co/m0RPi4TNMQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069419749977854415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "21:48 羟考酮15mg 注射 剧烈欣快😌\n（溶解过滤完因为没有大瓶生理盐水只能一针一针慢慢推\n羟考酮的❤️来自@KrvyScorpii 下次还要找你玩🤤 https://t.co/m0RPi4TNMQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Utsunomiya-shi, Tochigi, Japan",
+              "geo": {
+                "coordinates": [
+                  139.88361,
+                  36.56583
+                ],
+                "type": "Point"
+              },
+              "locality": "Utsunomiya-shi",
+              "region": "Tochigi"
+            }
+          ]
+        },
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼\n|十代目账号\n|姐姐大人 @Tsukiyasakura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Tsukiyasakura"
+              }
+            ]
+          }
+        },
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "pinned_tweet_id": "2063574011272212721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 103,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "frontier_tut",
+        "verified": false
+      }
+    ]
+  }
+}

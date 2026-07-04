@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063564638328147968",
+    "conversation_id": "2072927177679773802",
+    "created_at": "2026-07-03T07:21:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T08:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072943733444858330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057729979677548544",
+          "start": 0,
+          "username": "Numiouoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072943733444858330",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072927177679773802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouoo 我也… 最多可以连续冲六次 冲完脑子像吃了解离剂一样麻😌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063564638328147968",
+        "conversation_id": "2072927177679773802",
+        "created_at": "2026-07-03T07:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072943733444858330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072943733444858330",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072927177679773802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 我也… 最多可以连续冲六次 冲完脑子像吃了解离剂一样麻😌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2072927177679773802",
+        "created_at": "2026-07-03T06:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072927177679773802"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072927177679773802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "tm我性欲最近莫名其妙极高无比 之前过了很长的一段性冷淡时间 现在性欲和性快感都很高搞得我很不适应 像被小脑夺舍了\n\n我最近几乎是中午傍晚睡前一直冲……最可怕的是好像没cd……我性冷淡的时候会很很难性唤起但是这几天完全不会……剧烈手冲……还很爽每次都把我爽到剧烈尖叫或者意识混乱、已爽麻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Utsunomiya-shi, Tochigi, Japan",
+              "geo": {
+                "coordinates": [
+                  139.88361,
+                  36.56583
+                ],
+                "type": "Point"
+              },
+              "locality": "Utsunomiya-shi",
+              "region": "Tochigi"
+            }
+          ]
+        },
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼\n|十代目账号\n|姐姐大人 @Tsukiyasakura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Tsukiyasakura"
+              }
+            ]
+          }
+        },
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "pinned_tweet_id": "2063574011272212721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 176,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 197
+        },
+        "url": "",
+        "username": "frontier_tut",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1640,
+          "following_count": 945,
+          "like_count": 3219,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 2431
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

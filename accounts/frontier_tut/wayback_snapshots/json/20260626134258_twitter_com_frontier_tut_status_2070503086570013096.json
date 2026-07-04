@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070503077187338240"
+      ]
+    },
+    "author_id": "2063564638328147968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2070503086570013096",
+    "created_at": "2026-06-26T13:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T14:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070503086570013096"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q4knexgdhH",
+          "end": 52,
+          "expanded_url": "https://x.com/frontier_tut/status/2070503086570013096/photo/1",
+          "media_key": "3_2070503077187338240",
+          "start": 29,
+          "url": "https://t.co/q4knexgdhH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070503086570013096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别跟我说什么遵纪守法，找我要钱的时候不是挺大大方方的吗😇 https://t.co/q4knexgdhH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 860,
+        "media_key": "3_2070503077187338240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvnlCYawAA-BDg.jpg",
+        "width": 612
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070503077187338240"
+          ]
+        },
+        "author_id": "2063564638328147968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070503086570013096",
+        "created_at": "2026-06-26T13:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T14:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070503086570013096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q4knexgdhH",
+              "end": 52,
+              "expanded_url": "https://x.com/frontier_tut/status/2070503086570013096/photo/1",
+              "media_key": "3_2070503077187338240",
+              "start": 29,
+              "url": "https://t.co/q4knexgdhH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070503086570013096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别跟我说什么遵纪守法，找我要钱的时候不是挺大大方方的吗😇 https://t.co/q4knexgdhH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Utsunomiya-shi, Tochigi, Japan",
+              "geo": {
+                "coordinates": [
+                  139.88361,
+                  36.56583
+                ],
+                "type": "Point"
+              },
+              "locality": "Utsunomiya-shi",
+              "region": "Tochigi"
+            }
+          ]
+        },
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼\n|十代目账号\n|姐姐大人 @Tsukiyasakura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Tsukiyasakura"
+              }
+            ]
+          }
+        },
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "pinned_tweet_id": "2063574011272212721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 140,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "frontier_tut",
+        "verified": false
+      }
+    ]
+  }
+}

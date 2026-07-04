@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063564638328147968",
+    "conversation_id": "2063574011272212721",
+    "created_at": "2026-06-27T13:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070863348783358413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1443521350090383364",
+          "start": 0,
+          "username": "minakyomu"
+        },
+        {
+          "end": 25,
+          "id": "2011375652579262464",
+          "start": 11,
+          "username": "Kagamine_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070863348783358413",
+    "in_reply_to_user_id": "1443521350090383364",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070863179786412083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minakyomu @Kagamine_8964 😭🥺"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Kagamine_8964].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Kagamine_8964",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Kagamine_8964"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063564638328147968",
+        "conversation_id": "2063574011272212721",
+        "created_at": "2026-06-27T13:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070863348783358413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1443521350090383364",
+              "start": 0,
+              "username": "minakyomu"
+            },
+            {
+              "end": 25,
+              "id": "2011375652579262464",
+              "start": 11,
+              "username": "Kagamine_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070863348783358413",
+        "in_reply_to_user_id": "1443521350090383364",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070863179786412083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minakyomu @Kagamine_8964 😭🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443521350090383364",
+        "conversation_id": "2063574011272212721",
+        "created_at": "2026-06-27T13:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070863179786412083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063564638328147968",
+              "start": 0,
+              "username": "frontier_tut"
+            },
+            {
+              "end": 28,
+              "id": "2011375652579262464",
+              "start": 14,
+              "username": "Kagamine_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070863179786412083",
+        "in_reply_to_user_id": "2063564638328147968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063574011272212721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frontier_tut @Kagamine_8964 好久没见已经十代目了吗（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Utsunomiya-shi, Tochigi, Japan",
+              "geo": {
+                "coordinates": [
+                  139.88361,
+                  36.56583
+                ],
+                "type": "Point"
+              },
+              "locality": "Utsunomiya-shi",
+              "region": "Tochigi"
+            }
+          ]
+        },
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼\n|十代目账号\n|姐姐大人 @Tsukiyasakura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Tsukiyasakura"
+              }
+            ]
+          }
+        },
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "pinned_tweet_id": "2063574011272212721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 152,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "frontier_tut",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-30T10:21:32.000Z",
+        "description": "EN/ES/ZH /DE◎                                                        \n       07｜生理女｜精神分裂｜自傷｜\n繪畫｜｜音遊       \n我是夜羽无霜，只要不是侮辱性称呼请随意叫，对朋友容忍度很高，请多多来找我玩...我想要朋友🥺",
+        "id": "1443521350090383364",
+        "location": "奏坂高校",
+        "name": "夜羽むしも",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033930253605998596/wzphWnRE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 27,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 85
+        },
+        "url": "",
+        "username": "minakyomu",
+        "verified": false
+      }
+    ]
+  }
+}

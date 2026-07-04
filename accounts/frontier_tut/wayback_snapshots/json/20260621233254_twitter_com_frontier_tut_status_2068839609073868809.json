@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063564638328147968",
+    "conversation_id": "2068725636416336004",
+    "created_at": "2026-06-21T23:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T00:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068839609073868809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2051911190108860424",
+          "start": 0,
+          "username": "_ReinforceZwei_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068839609073868809",
+    "in_reply_to_user_id": "2051911190108860424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068729146239562005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ReinforceZwei_ 摸摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063564638328147968",
+        "conversation_id": "2068725636416336004",
+        "created_at": "2026-06-21T23:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T00:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068839609073868809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2051911190108860424",
+              "start": 0,
+              "username": "_ReinforceZwei_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068839609073868809",
+        "in_reply_to_user_id": "2051911190108860424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068729146239562005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ReinforceZwei_ 摸摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051911190108860424",
+        "conversation_id": "2068725636416336004",
+        "created_at": "2026-06-21T16:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068729146239562005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063564638328147968",
+              "start": 0,
+              "username": "frontier_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068729146239562005",
+        "in_reply_to_user_id": "2063564638328147968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068725636416336004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frontier_tut 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Utsunomiya-shi, Tochigi, Japan",
+              "geo": {
+                "coordinates": [
+                  139.88361,
+                  36.56583
+                ],
+                "type": "Point"
+              },
+              "locality": "Utsunomiya-shi",
+              "region": "Tochigi"
+            }
+          ]
+        },
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼\n|十代目账号\n|姐姐大人 @Tsukiyasakura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Tsukiyasakura"
+              }
+            ]
+          }
+        },
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "pinned_tweet_id": "2063574011272212721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 65,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "frontier_tut",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T06:26:26.000Z",
+        "description": "祈りは未来へと　つないで\n温もりを　安らぎを　守れるよ",
+        "id": "2051911190108860424",
+        "location": "夜天の書",
+        "name": "Reinforce Zwei",
+        "pinned_tweet_id": "2063261513218224497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053513930576986112/UkiRKRuL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 68,
+          "like_count": 471,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "_ReinforceZwei_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063564638328147968",
+    "conversation_id": "2069791637950328873",
+    "created_at": "2026-06-25T04:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T05:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070008011104600106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2025905993935405057",
+          "start": 0,
+          "username": "ganzeos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070008011104600106",
+    "in_reply_to_user_id": "2025905993935405057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069894776422310002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ganzeos 我最近也在挠挠挠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063564638328147968",
+        "conversation_id": "2069791637950328873",
+        "created_at": "2026-06-25T04:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070008011104600106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2025905993935405057",
+              "start": 0,
+              "username": "ganzeos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070008011104600106",
+        "in_reply_to_user_id": "2025905993935405057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069894776422310002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ganzeos 我最近也在挠挠挠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025905993935405057",
+        "conversation_id": "2069791637950328873",
+        "created_at": "2026-06-24T21:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T22:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069894776422310002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063564638328147968",
+              "start": 0,
+              "username": "frontier_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069894776422310002",
+        "in_reply_to_user_id": "2063564638328147968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069791637950328873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frontier_tut 夏天到了，估计是间擦性皮炎吧？我小学的时候也有过，因为长时间贴着，所以会这样而且我还很痒想挠，后来越挠越多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Utsunomiya-shi, Tochigi, Japan",
+              "geo": {
+                "coordinates": [
+                  139.88361,
+                  36.56583
+                ],
+                "type": "Point"
+              },
+              "locality": "Utsunomiya-shi",
+              "region": "Tochigi"
+            }
+          ]
+        },
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼\n|十代目账号\n|姐姐大人 @Tsukiyasakura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Tsukiyasakura"
+              }
+            ]
+          }
+        },
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "pinned_tweet_id": "2063574011272212721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 116,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "frontier_tut",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T12:10:11.000Z",
+        "description": "我叫甘泽\n想交好多朋友\n坐标浙江\n生日12.24\n08年摩羯座isfj\n喜欢玩游戏/第五人格/王者荣耀/vrchat/我的世界（java）\n喜欢永雏塔菲，不追星、不怎么磕cp、🈚雷点（小粉红走开\n本人性格温良（除了游戏里面？！不过不会去骂朋友）\n可以找我玩游戏呢👻👻",
+        "id": "2025905993935405057",
+        "name": "甘泽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053115508879179778/MKU_anOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 27,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 80
+        },
+        "url": "",
+        "username": "ganzeos",
+        "verified": false
+      }
+    ]
+  }
+}

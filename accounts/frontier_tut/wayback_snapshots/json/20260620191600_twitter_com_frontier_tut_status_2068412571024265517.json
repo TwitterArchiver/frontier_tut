@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068412568499351552"
+      ]
+    },
+    "author_id": "2063564638328147968",
+    "conversation_id": "2068412571024265517",
+    "created_at": "2026-06-20T19:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T20:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068412571024265517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2032059814348754944",
+          "start": 1,
+          "username": "KrvyScorpii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y8KfxJRpuO",
+          "end": 58,
+          "expanded_url": "https://x.com/frontier_tut/status/2068412571024265517/photo/1",
+          "media_key": "3_2068412568499351552",
+          "start": 35,
+          "url": "https://t.co/Y8KfxJRpuO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068412571024265517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和@KrvyScorpii \n（我刚帮他静注了两针◻️◻️物质😼☝️ https://t.co/Y8KfxJRpuO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2068412568499351552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLR6RapbcAADclX.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068412568499351552"
+          ]
+        },
+        "author_id": "2063564638328147968",
+        "conversation_id": "2068412571024265517",
+        "created_at": "2026-06-20T19:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T20:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068412571024265517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2032059814348754944",
+              "start": 1,
+              "username": "KrvyScorpii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y8KfxJRpuO",
+              "end": 58,
+              "expanded_url": "https://x.com/frontier_tut/status/2068412571024265517/photo/1",
+              "media_key": "3_2068412568499351552",
+              "start": 35,
+              "url": "https://t.co/Y8KfxJRpuO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068412571024265517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和@KrvyScorpii \n（我刚帮他静注了两针◻️◻️物质😼☝️ https://t.co/Y8KfxJRpuO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Utsunomiya-shi, Tochigi, Japan",
+              "geo": {
+                "coordinates": [
+                  139.88361,
+                  36.56583
+                ],
+                "type": "Point"
+              },
+              "locality": "Utsunomiya-shi",
+              "region": "Tochigi"
+            }
+          ]
+        },
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼",
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "pinned_tweet_id": "2063574011272212721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 50,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "frontier_tut",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T11:43:12.000Z",
+        "description": "这里是krvy，pdw wiki管理员 不写wiki的贝斯手@linglinlll 是我主人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "linglinlll"
+              }
+            ]
+          }
+        },
+        "id": "2032059814348754944",
+        "name": "Krvy #心宿二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055970057549934592/BEgsZwuu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 53,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "KrvyScorpii",
+        "verified": false
+      }
+    ]
+  }
+}

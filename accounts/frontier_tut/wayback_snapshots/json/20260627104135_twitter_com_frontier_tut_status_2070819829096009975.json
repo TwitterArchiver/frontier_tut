@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063564638328147968",
+    "conversation_id": "2070798350191087666",
+    "created_at": "2026-06-27T10:41:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T11:41:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070819829096009975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1629096564030574593",
+          "start": 0,
+          "username": "xbprj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070819829096009975",
+    "in_reply_to_user_id": "1629096564030574593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070819362907533608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xbprj 美味啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063564638328147968",
+        "conversation_id": "2070798350191087666",
+        "created_at": "2026-06-27T10:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070819829096009975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1629096564030574593",
+              "start": 0,
+              "username": "xbprj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070819829096009975",
+        "in_reply_to_user_id": "1629096564030574593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070819362907533608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xbprj 美味啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629096564030574593",
+        "conversation_id": "2070798350191087666",
+        "created_at": "2026-06-27T10:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070819362907533608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063564638328147968",
+              "start": 0,
+              "username": "frontier_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070819362907533608",
+        "in_reply_to_user_id": "2063564638328147968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070798350191087666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frontier_tut 甜酒冲蛋汤圆神中神，唯一缺点就是不小心沾在手上胶黏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Utsunomiya-shi, Tochigi, Japan",
+              "geo": {
+                "coordinates": [
+                  139.88361,
+                  36.56583
+                ],
+                "type": "Point"
+              },
+              "locality": "Utsunomiya-shi",
+              "region": "Tochigi"
+            }
+          ]
+        },
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼\n|十代目账号\n|姐姐大人 @Tsukiyasakura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Tsukiyasakura"
+              }
+            ]
+          }
+        },
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "pinned_tweet_id": "2063574011272212721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 149,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "frontier_tut",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-24T12:31:12.000Z",
+        "description": "你听过追光者的故事吗",
+        "id": "1629096564030574593",
+        "location": "中国",
+        "name": "爱听苦情歌",
+        "pinned_tweet_id": "2070550510092902400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721533864357806080/KTysb8-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 519,
+          "like_count": 9282,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 2482
+        },
+        "url": "",
+        "username": "xbprj",
+        "verified": false
+      }
+    ]
+  }
+}

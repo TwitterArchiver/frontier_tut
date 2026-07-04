@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063564638328147968",
+    "conversation_id": "2069857186982113635",
+    "created_at": "2026-06-25T04:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T05:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070007829977801122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1992807417273606144",
+          "start": 0,
+          "username": "mao89879"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070007829977801122",
+    "in_reply_to_user_id": "1992807417273606144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069929286765834441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mao89879 😰都追到qq音乐了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063564638328147968",
+        "conversation_id": "2069857186982113635",
+        "created_at": "2026-06-25T04:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070007829977801122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1992807417273606144",
+              "start": 0,
+              "username": "mao89879"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070007829977801122",
+        "in_reply_to_user_id": "1992807417273606144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069929286765834441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mao89879 😰都追到qq音乐了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992807417273606144",
+        "conversation_id": "2069857186982113635",
+        "created_at": "2026-06-24T23:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T00:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069929286765834441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063564638328147968",
+              "start": 0,
+              "username": "frontier_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069929286765834441",
+        "in_reply_to_user_id": "2063564638328147968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069857186982113635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frontier_tut 之前有个人突然给我我的QQ音乐发私信是在找你，我感觉到你可能受到了很大的骚扰，宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Utsunomiya-shi, Tochigi, Japan",
+              "geo": {
+                "coordinates": [
+                  139.88361,
+                  36.56583
+                ],
+                "type": "Point"
+              },
+              "locality": "Utsunomiya-shi",
+              "region": "Tochigi"
+            }
+          ]
+        },
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼\n|十代目账号\n|姐姐大人 @Tsukiyasakura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Tsukiyasakura"
+              }
+            ]
+          }
+        },
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "pinned_tweet_id": "2063574011272212721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 116,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "frontier_tut",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T04:08:25.000Z",
+        "description": "他从来不吸毒，但天生爱幻想",
+        "id": "1992807417273606144",
+        "name": "亚伽马热线",
+        "pinned_tweet_id": "2066463026015076481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999066420580364288/1I7MZU4H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 331,
+          "like_count": 2311,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 275
+        },
+        "url": "",
+        "username": "mao89879",
+        "verified": false
+      }
+    ]
+  }
+}

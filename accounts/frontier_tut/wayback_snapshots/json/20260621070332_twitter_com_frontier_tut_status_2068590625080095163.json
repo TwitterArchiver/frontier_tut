@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068590605236862976"
+      ]
+    },
+    "author_id": "2063564638328147968",
+    "conversation_id": "2068590625080095163",
+    "created_at": "2026-06-21T07:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T08:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068590625080095163"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/erOupxGxqm",
+          "end": 39,
+          "expanded_url": "https://x.com/frontier_tut/status/2068590625080095163/photo/1",
+          "media_key": "3_2068590605236862976",
+          "start": 16,
+          "url": "https://t.co/erOupxGxqm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068590625080095163",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "get！！oxy来自krvy🤤 https://t.co/erOupxGxqm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068590605236862976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUcMhLagAA6ph4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068590605236862976"
+          ]
+        },
+        "author_id": "2063564638328147968",
+        "conversation_id": "2068590625080095163",
+        "created_at": "2026-06-21T07:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068590625080095163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/erOupxGxqm",
+              "end": 39,
+              "expanded_url": "https://x.com/frontier_tut/status/2068590625080095163/photo/1",
+              "media_key": "3_2068590605236862976",
+              "start": 16,
+              "url": "https://t.co/erOupxGxqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068590625080095163",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "get！！oxy来自krvy🤤 https://t.co/erOupxGxqm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Utsunomiya-shi, Tochigi, Japan",
+              "geo": {
+                "coordinates": [
+                  139.88361,
+                  36.56583
+                ],
+                "type": "Point"
+              },
+              "locality": "Utsunomiya-shi",
+              "region": "Tochigi"
+            }
+          ]
+        },
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼\n|姐姐大人 @Tsukiyasakura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "Tsukiyasakura"
+              }
+            ]
+          }
+        },
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "pinned_tweet_id": "2063574011272212721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 62,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "frontier_tut",
+        "verified": false
+      }
+    ]
+  }
+}

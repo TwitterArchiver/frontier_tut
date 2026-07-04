@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063564638328147968",
+    "conversation_id": "2069817858427867244",
+    "created_at": "2026-06-25T18:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T19:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070213068404277749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1979915051071938560",
+          "start": 0,
+          "username": "Prouwtt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070213068404277749",
+    "in_reply_to_user_id": "1979915051071938560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069817858427867244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Prouwtt 中华娘"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069817847769886720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLl4Xb4WcAAedZ9.jpg",
+        "width": 1374
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063564638328147968",
+        "conversation_id": "2069817858427867244",
+        "created_at": "2026-06-25T18:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T19:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070213068404277749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1979915051071938560",
+              "start": 0,
+              "username": "Prouwtt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070213068404277749",
+        "in_reply_to_user_id": "1979915051071938560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069817858427867244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prouwtt 中华娘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069817847769886720"
+          ]
+        },
+        "author_id": "1979915051071938560",
+        "conversation_id": "2069817858427867244",
+        "created_at": "2026-06-24T16:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069817858427867244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zVbG1i52D5",
+              "end": 36,
+              "expanded_url": "https://x.com/Prouwtt/status/2069817858427867244/photo/1",
+              "media_key": "3_2069817847769886720",
+              "start": 13,
+              "url": "https://t.co/zVbG1i52D5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069817858427867244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得这个发挥特别特别好 https://t.co/zVbG1i52D5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Utsunomiya-shi, Tochigi, Japan",
+              "geo": {
+                "coordinates": [
+                  139.88361,
+                  36.56583
+                ],
+                "type": "Point"
+              },
+              "locality": "Utsunomiya-shi",
+              "region": "Tochigi"
+            }
+          ]
+        },
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼\n|十代目账号\n|姐姐大人 @Tsukiyasakura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Tsukiyasakura"
+              }
+            ]
+          }
+        },
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "pinned_tweet_id": "2063574011272212721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 138,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "frontier_tut",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-19T14:19:42.000Z",
+        "description": "无性别电子幽灵",
+        "id": "1979915051071938560",
+        "name": "Prouw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979915757858287616/Ag0ZSmsL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 127,
+          "like_count": 543,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 808
+        },
+        "url": "",
+        "username": "Prouwtt",
+        "verified": false
+      }
+    ]
+  }
+}

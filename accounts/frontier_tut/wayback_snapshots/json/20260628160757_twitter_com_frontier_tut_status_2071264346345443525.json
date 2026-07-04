@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063564638328147968",
+    "conversation_id": "2070874406608593038",
+    "created_at": "2026-06-28T16:07:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T17:07:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071264346345443525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1670745101071417344",
+          "start": 0,
+          "username": "xingmin1145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071264346345443525",
+    "in_reply_to_user_id": "1670745101071417344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071038501986918906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingmin1145 挖包"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063564638328147968",
+        "conversation_id": "2070874406608593038",
+        "created_at": "2026-06-28T16:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071264346345443525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1670745101071417344",
+              "start": 0,
+              "username": "xingmin1145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071264346345443525",
+        "in_reply_to_user_id": "1670745101071417344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071038501986918906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingmin1145 挖包"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670745101071417344",
+        "conversation_id": "2070874406608593038",
+        "created_at": "2026-06-28T01:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T02:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071038501986918906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063564638328147968",
+              "start": 0,
+              "username": "frontier_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071038501986918906",
+        "in_reply_to_user_id": "2063564638328147968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070874406608593038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frontier_tut 大麻是怎么拿到的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼\n|十代目账号\n|姐姐大人 @Tsukiyasakura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Tsukiyasakura"
+              }
+            ]
+          }
+        },
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "pinned_tweet_id": "2063574011272212721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 162,
+          "like_count": 252,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 146
+        },
+        "url": "",
+        "username": "frontier_tut",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-19T10:47:36.000Z",
+        "description": "某只闵的小号\n为了看好康的所以出现了\n大号指路→ @1145xingmin\nEN/CN/JP（翻译器）\n欢迎互关！（私信可以加v/qq）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "1145xingmin"
+              }
+            ]
+          }
+        },
+        "id": "1670745101071417344",
+        "location": "喵喵镇",
+        "name": "闵委员长",
+        "pinned_tweet_id": "2055593093009908134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063152707129499648/M6cPZzcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 265,
+          "like_count": 12687,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 3124
+        },
+        "url": "",
+        "username": "xingmin1145",
+        "verified": false
+      }
+    ]
+  }
+}

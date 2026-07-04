@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063564638328147968",
+    "conversation_id": "2070412678133154131",
+    "created_at": "2026-06-26T08:20:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T09:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070421898413109340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1963618149389189120",
+          "start": 0,
+          "username": "hatori_itsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070421898413109340",
+    "in_reply_to_user_id": "1963618149389189120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070412678133154131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hatori_itsuki 涂点抗生素"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070412668926902272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuVWlXbQAAFzPw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063564638328147968",
+        "conversation_id": "2070412678133154131",
+        "created_at": "2026-06-26T08:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070421898413109340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1963618149389189120",
+              "start": 0,
+              "username": "hatori_itsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070421898413109340",
+        "in_reply_to_user_id": "1963618149389189120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070412678133154131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hatori_itsuki 涂点抗生素"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070412668926902272"
+          ]
+        },
+        "author_id": "1963618149389189120",
+        "conversation_id": "2070412678133154131",
+        "created_at": "2026-06-26T07:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070412678133154131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D8Cdjf6qFE",
+              "end": 31,
+              "expanded_url": "https://x.com/hatori_itsuki/status/2070412678133154131/photo/1",
+              "media_key": "3_2070412668926902272",
+              "start": 8,
+              "url": "https://t.co/D8Cdjf6qFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070412678133154131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手被虫子咬了😭 https://t.co/D8Cdjf6qFE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Utsunomiya-shi, Tochigi, Japan",
+              "geo": {
+                "coordinates": [
+                  139.88361,
+                  36.56583
+                ],
+                "type": "Point"
+              },
+              "locality": "Utsunomiya-shi",
+              "region": "Tochigi"
+            }
+          ]
+        },
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼\n|十代目账号\n|姐姐大人 @Tsukiyasakura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Tsukiyasakura"
+              }
+            ]
+          }
+        },
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "pinned_tweet_id": "2063574011272212721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 138,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 108
+        },
+        "url": "",
+        "username": "frontier_tut",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T15:00:35.000Z",
+        "description": "cn.羽生俊树/maimai/オンゲキ/VOCALOID/嵌入式单片机开发/日本語を勉強しています/男生的身体里住着女孩子的灵魂🥰/会在这里记录我的生活",
+        "id": "1963618149389189120",
+        "location": "武汉 江夏区",
+        "name": "Hatori",
+        "pinned_tweet_id": "2038844709431615936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004237862188077060/YsGyZIA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 66,
+          "like_count": 544,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 795
+        },
+        "url": "",
+        "username": "hatori_itsuki",
+        "verified": false
+      }
+    ]
+  }
+}

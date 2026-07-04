@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063564638328147968",
+    "conversation_id": "2070493211223904570",
+    "created_at": "2026-06-26T19:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T20:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070586658316316885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1629096564030574593",
+          "start": 0,
+          "username": "xbprj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070586658316316885",
+    "in_reply_to_user_id": "1629096564030574593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070549516219007237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xbprj 我妈让我别浪费钱出去打工🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063564638328147968",
+        "conversation_id": "2070493211223904570",
+        "created_at": "2026-06-26T19:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T20:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070586658316316885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1629096564030574593",
+              "start": 0,
+              "username": "xbprj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070586658316316885",
+        "in_reply_to_user_id": "1629096564030574593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070549516219007237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xbprj 我妈让我别浪费钱出去打工🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629096564030574593",
+        "conversation_id": "2070493211223904570",
+        "created_at": "2026-06-26T16:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070549516219007237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063564638328147968",
+              "start": 0,
+              "username": "frontier_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070549516219007237",
+        "in_reply_to_user_id": "2063564638328147968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070493211223904570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frontier_tut 得看自己在什么城市，加上成没成年，不在一线城市的话高二毕业真的找不到什么工作，一般是收银员或者服务员网管或者前台这种，但是真的真的很累。老大如果成绩还可以的话真的等高考完吧，高考完考的好的话可以去家教，上了大学有国家的助学贷还有自己努力卷一卷奖学金什么的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼\n|十代目账号\n|姐姐大人 @Tsukiyasakura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Tsukiyasakura"
+              }
+            ]
+          }
+        },
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "pinned_tweet_id": "2063574011272212721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 146,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 116
+        },
+        "url": "",
+        "username": "frontier_tut",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-24T12:31:12.000Z",
+        "description": "你听过追光者的故事吗",
+        "id": "1629096564030574593",
+        "location": "中国",
+        "name": "爱听苦情歌",
+        "pinned_tweet_id": "2070550510092902400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721533864357806080/KTysb8-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 518,
+          "like_count": 9260,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 2472
+        },
+        "url": "",
+        "username": "xbprj",
+        "verified": false
+      }
+    ]
+  }
+}

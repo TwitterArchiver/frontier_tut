@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063564638328147968",
+    "conversation_id": "2064068116272038058",
+    "created_at": "2026-06-08T19:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T20:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064068116272038058"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064068116272038058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在我吃了20mg思思药效看到我妈发的大段消息应激发作狂吐跟我妈打电话胡乱发言让姐姐和我妈对峙偷偷把美工刀拆了拿刀片划腿然后一直舔伤口捣了一大圈乱最后坐在床上淡淡的问出一句：“刚刚发生了什么…？”之后 姐姐彻底禁止我吃思思了😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063564638328147968",
+        "conversation_id": "2064068116272038058",
+        "created_at": "2026-06-08T19:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T20:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064068116272038058"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064068116272038058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在我吃了20mg思思药效看到我妈发的大段消息应激发作狂吐跟我妈打电话胡乱发言让姐姐和我妈对峙偷偷把美工刀拆了拿刀片划腿然后一直舔伤口捣了一大圈乱最后坐在床上淡淡的问出一句：“刚刚发生了什么…？”之后 姐姐彻底禁止我吃思思了😔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼",
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 16,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "frontier_tut",
+        "verified": false
+      }
+    ]
+  }
+}

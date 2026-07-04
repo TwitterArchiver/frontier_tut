@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063564638328147968",
+    "conversation_id": "2072639395073843336",
+    "created_at": "2026-07-02T12:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072658560165801989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1963618149389189120",
+          "start": 0,
+          "username": "hatori_itsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072658560165801989",
+    "in_reply_to_user_id": "1963618149389189120",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072642303433519193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hatori_itsuki 😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063564638328147968",
+        "conversation_id": "2072639395073843336",
+        "created_at": "2026-07-02T12:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072658560165801989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1963618149389189120",
+              "start": 0,
+              "username": "hatori_itsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072658560165801989",
+        "in_reply_to_user_id": "1963618149389189120",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072642303433519193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hatori_itsuki 😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963618149389189120",
+        "conversation_id": "2072639395073843336",
+        "created_at": "2026-07-02T11:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072642303433519193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063564638328147968",
+              "start": 0,
+              "username": "frontier_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072642303433519193",
+        "in_reply_to_user_id": "2063564638328147968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072639395073843336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frontier_tut 可爱捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Utsunomiya-shi, Tochigi, Japan",
+              "geo": {
+                "coordinates": [
+                  139.88361,
+                  36.56583
+                ],
+                "type": "Point"
+              },
+              "locality": "Utsunomiya-shi",
+              "region": "Tochigi"
+            }
+          ]
+        },
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼\n|十代目账号\n|姐姐大人 @Tsukiyasakura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Tsukiyasakura"
+              }
+            ]
+          }
+        },
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "pinned_tweet_id": "2063574011272212721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 172,
+          "like_count": 324,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 190
+        },
+        "url": "",
+        "username": "frontier_tut",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T15:00:35.000Z",
+        "description": "cn.羽生俊树/maimai/オンゲキ/VOCALOID/嵌入式单片机开发/日本語を勉強しています/男生的身体里住着女孩子的灵魂🥰/会在这里记录我的生活",
+        "id": "1963618149389189120",
+        "location": "武汉 江夏区",
+        "name": "Hatori",
+        "pinned_tweet_id": "2038844709431615936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004237862188077060/YsGyZIA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 67,
+          "like_count": 552,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 813
+        },
+        "url": "",
+        "username": "hatori_itsuki",
+        "verified": false
+      }
+    ]
+  }
+}
