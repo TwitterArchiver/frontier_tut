@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-05T07:02:19",
+  "last_updated": "2026-07-05T07:19:12",
   "html": {
     "https://web.archive.org/web/20260608165317if_/https://twitter.com/frontier_tut/status/2064027997720674662": {
       "status": "done",
@@ -2359,28 +2359,40 @@
       "last_updated": "2026-07-04T09:21:04"
     },
     "https://pbs.twimg.com/profile_images/2070767945127800832/3Hm17hRM_normal.jpg": {
-      "status": "unknown",
+      "status": "failed_all",
       "referenced_by": [
         "20260703154333_twitter_com_frontier_tut_status_2073070148584652840.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T07:19:00",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260703154333if_/https://pbs.twimg.com/profile_images/2070767945127800832/3Hm17hRM_normal.jpg",
+      "miss_count": 1
     },
     "https://pbs.twimg.com/profile_images/1878213497085210624/O4gbjsP4_normal.jpg": {
-      "status": "unknown",
+      "status": "failed_all",
       "referenced_by": [
         "20260703161301_twitter_com_frontier_tut_status_2073077561471697359.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T07:18:58",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260703161301if_/https://pbs.twimg.com/profile_images/1878213497085210624/O4gbjsP4_normal.jpg",
+      "miss_count": 1
     },
     "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260703214225_twitter_com_frontier_tut_status_2073160457297481889.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T07:19:12",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260703214225im_/https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7efc95232c60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2056121985063931904/X7cc-da0_normal.jpg": {
-      "status": "unknown",
+      "status": "failed_all",
       "referenced_by": [
         "20260703214315_twitter_com_frontier_tut_status_2073160667776110723.json"
-      ]
+      ],
+      "last_updated": "2026-07-05T07:19:07",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260703214315if_/https://pbs.twimg.com/profile_images/2056121985063931904/X7cc-da0_normal.jpg",
+      "miss_count": 1
     }
   },
   "media": {
@@ -5175,7 +5187,7 @@
       "miss_count": 2
     },
     "20260703154333_twitter_com_frontier_tut_status_2073070148584652840.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -5184,7 +5196,7 @@
           "https://pbs.twimg.com/profile_images/2070767945127800832/3Hm17hRM_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T07:02:18"
+      "last_updated": "2026-07-05T07:19:00"
     },
     "20260703155808_twitter_com_frontier_tut_status_2073073817178792330.json": {
       "status": "done",
@@ -5199,7 +5211,7 @@
       "last_updated": "2026-07-05T07:00:41"
     },
     "20260703161301_twitter_com_frontier_tut_status_2073077561471697359.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HMTvBq4aAAAoZ4I.jpg"
@@ -5210,7 +5222,7 @@
           "https://pbs.twimg.com/profile_images/1878213497085210624/O4gbjsP4_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T07:02:18"
+      "last_updated": "2026-07-05T07:18:58"
     },
     "20260703173608_twitter_com_frontier_tut_status_2073098480764268597.json": {
       "status": "failed",
@@ -5228,7 +5240,7 @@
       "miss_count": 2
     },
     "20260703214225_twitter_com_frontier_tut_status_2073160457297481889.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -5237,10 +5249,10 @@
           "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T07:02:18"
+      "last_updated": "2026-07-05T07:19:01"
     },
     "20260703214315_twitter_com_frontier_tut_status_2073160667776110723.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -5249,7 +5261,7 @@
           "https://pbs.twimg.com/profile_images/2056121985063931904/X7cc-da0_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-05T07:02:18"
+      "last_updated": "2026-07-05T07:19:07"
     }
   }
 }
