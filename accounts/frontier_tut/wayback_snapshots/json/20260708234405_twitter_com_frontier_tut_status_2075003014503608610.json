@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063564638328147968",
+    "conversation_id": "2063574011272212721",
+    "created_at": "2026-07-08T23:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T00:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075003014503608610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1976976628929740800",
+          "start": 0,
+          "username": "ns7ENo1Djy6246"
+        },
+        {
+          "end": 30,
+          "id": "2011375652579262464",
+          "start": 16,
+          "username": "Kagamine_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075003014503608610",
+    "in_reply_to_user_id": "1976976628929740800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075002198623428898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ns7ENo1Djy6246 @Kagamine_8964 好哦"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Kagamine_8964].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Kagamine_8964",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Kagamine_8964"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063564638328147968",
+        "conversation_id": "2063574011272212721",
+        "created_at": "2026-07-08T23:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T00:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075003014503608610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1976976628929740800",
+              "start": 0,
+              "username": "ns7ENo1Djy6246"
+            },
+            {
+              "end": 30,
+              "id": "2011375652579262464",
+              "start": 16,
+              "username": "Kagamine_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075003014503608610",
+        "in_reply_to_user_id": "1976976628929740800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075002198623428898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ns7ENo1Djy6246 @Kagamine_8964 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976976628929740800",
+        "conversation_id": "2063574011272212721",
+        "created_at": "2026-07-08T23:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T00:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075002198623428898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063564638328147968",
+              "start": 0,
+              "username": "frontier_tut"
+            },
+            {
+              "end": 28,
+              "id": "2011375652579262464",
+              "start": 14,
+              "username": "Kagamine_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075002198623428898",
+        "in_reply_to_user_id": "2063564638328147968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063574011272212721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frontier_tut @Kagamine_8964 姐姐姐姐我想互fo(｡･ω･｡)ﾉ♡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Utsunomiya-shi, Tochigi, Japan",
+              "geo": {
+                "coordinates": [
+                  139.88361,
+                  36.56583
+                ],
+                "type": "Point"
+              },
+              "locality": "Utsunomiya-shi",
+              "region": "Tochigi"
+            }
+          ]
+        },
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼\n|十代目账号|无性别 全性别友好\n|C-PTSD 因创伤而躲藏\n|姐姐大人 @Tsukiyasakura\n|我只是🐈请不要指责我🥺请投喂镜音谢谢喵🫶\n|魔法糖果购买https://t.co/oBTvsWsNpQ\n|匿名提问👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 63,
+                "username": "Tsukiyasakura"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Kagamine_8964",
+                "end": 130,
+                "expanded_url": "http://t.me/Kagamine_8964",
+                "start": 107,
+                "url": "https://t.co/oBTvsWsNpQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hequanjingyin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hequanjingyin",
+                "start": 0,
+                "url": "https://t.co/Imrvv5DaCF"
+              }
+            ]
+          }
+        },
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "pinned_tweet_id": "2063574011272212721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 223,
+          "like_count": 530,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 285
+        },
+        "url": "https://t.co/Imrvv5DaCF",
+        "username": "frontier_tut",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T11:42:22.000Z",
+        "description": "我是一个乐子逼。恩、\nod｜自伤｜抑郁｜焦虑｜全部友好喵，欢迎互fo",
+        "id": "1976976628929740800",
+        "location": "天国",
+        "name": "cry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070907976412807168/0ufRfAYt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 7,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "ns7ENo1Djy6246",
+        "verified": false
+      }
+    ]
+  }
+}

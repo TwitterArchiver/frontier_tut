@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074817169884585984"
+      ]
+    },
+    "author_id": "2063564638328147968",
+    "conversation_id": "2074817172170482089",
+    "created_at": "2026-07-08T11:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074817172170482089"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZrLVy8nn0w",
+          "end": 59,
+          "expanded_url": "https://x.com/frontier_tut/status/2074817172170482089/photo/1",
+          "media_key": "3_2074817169884585984",
+          "start": 36,
+          "url": "https://t.co/ZrLVy8nn0w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074817172170482089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的很讨厌恶俗梗 如果有人不停的给我发无论是谁都会被我光速删除拉黑😓 https://t.co/ZrLVy8nn0w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 761,
+        "media_key": "3_2074817169884585984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMs7OSDaIAAI5ON.png",
+        "width": 613
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074817169884585984"
+          ]
+        },
+        "author_id": "2063564638328147968",
+        "conversation_id": "2074817172170482089",
+        "created_at": "2026-07-08T11:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074817172170482089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZrLVy8nn0w",
+              "end": 59,
+              "expanded_url": "https://x.com/frontier_tut/status/2074817172170482089/photo/1",
+              "media_key": "3_2074817169884585984",
+              "start": 36,
+              "url": "https://t.co/ZrLVy8nn0w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074817172170482089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很讨厌恶俗梗 如果有人不停的给我发无论是谁都会被我光速删除拉黑😓 https://t.co/ZrLVy8nn0w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼\n|十代目账号|无性别 全性别友好\n|C-PTSD 因创伤而躲藏\n|姐姐大人 @Tsukiyasakura\n|我只是🐈请不要指责我🥺请投喂镜音谢谢喵🫶\n|魔法糖果购买https://t.co/oBTvsWsNpQ\n|匿名提问👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 63,
+                "username": "Tsukiyasakura"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Kagamine_8964",
+                "end": 130,
+                "expanded_url": "http://t.me/Kagamine_8964",
+                "start": 107,
+                "url": "https://t.co/oBTvsWsNpQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hequanjingyin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hequanjingyin",
+                "start": 0,
+                "url": "https://t.co/Imrvv5DaCF"
+              }
+            ]
+          }
+        },
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "pinned_tweet_id": "2063574011272212721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 221,
+          "like_count": 505,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 273
+        },
+        "url": "https://t.co/Imrvv5DaCF",
+        "username": "frontier_tut",
+        "verified": false
+      }
+    ]
+  }
+}

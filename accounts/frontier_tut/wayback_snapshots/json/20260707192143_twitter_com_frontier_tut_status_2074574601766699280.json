@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063564638328147968",
+    "conversation_id": "2064068116272038058",
+    "created_at": "2026-07-07T19:21:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T20:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074574601766699280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1423494052733874182",
+          "start": 0,
+          "username": "SaturnXVIII_Pan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074574601766699280",
+    "in_reply_to_user_id": "1423494052733874182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074550018850361408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaturnXVIII_Pan 这俩同类的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063564638328147968",
+        "conversation_id": "2064068116272038058",
+        "created_at": "2026-07-07T19:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T20:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074574601766699280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1423494052733874182",
+              "start": 0,
+              "username": "SaturnXVIII_Pan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074574601766699280",
+        "in_reply_to_user_id": "1423494052733874182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074550018850361408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaturnXVIII_Pan 这俩同类的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423494052733874182",
+        "conversation_id": "2064068116272038058",
+        "created_at": "2026-07-07T17:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074550018850361408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063564638328147968",
+              "start": 0,
+              "username": "frontier_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074550018850361408",
+        "in_reply_to_user_id": "2063564638328147968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064068116272038058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frontier_tut 我是不是扎来普隆配酒喝太多了导致我现在唑吡坦没什么药效"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Utsunomiya-shi, Tochigi, Japan",
+              "geo": {
+                "coordinates": [
+                  139.88361,
+                  36.56583
+                ],
+                "type": "Point"
+              },
+              "locality": "Utsunomiya-shi",
+              "region": "Tochigi"
+            }
+          ]
+        },
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼\n|十代目账号\n|姐姐大人 @Tsukiyasakura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Tsukiyasakura"
+              }
+            ]
+          }
+        },
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "pinned_tweet_id": "2063574011272212721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 212,
+          "like_count": 478,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 262
+        },
+        "url": "",
+        "username": "frontier_tut",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-06T04:00:17.000Z",
+        "description": "Nothing ever lasts forever\n@Kuroneko450430❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 27,
+                "username": "Kuroneko450430"
+              }
+            ]
+          }
+        },
+        "id": "1423494052733874182",
+        "location": "Encke Gap, Rings of Saturn",
+        "name": "Pan🍥",
+        "pinned_tweet_id": "1670140488639455232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721862599686733824/2W8dEMkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 542,
+          "like_count": 26407,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 10410
+        },
+        "url": "",
+        "username": "SaturnXVIII_Pan",
+        "verified": false
+      }
+    ]
+  }
+}
