@@ -1,19 +1,29 @@
 {
   "name": "鏡鏡金竟音",
   "username": "@frontier_tut",
-  "bio": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼 |十代目账号 |姐姐大人 @Tsukiyasakura",
+  "bio": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼\n|十代目账号|无性别 全性别友好\n|C-PTSD 因创伤而躲藏\n|姐姐大人 @Tsukiyasakura\n|我只是🐈请不要指责我🥺请投喂镜音谢谢喵🫶\n|魔法糖果购买http://t.me/Kagamine_8964\n|匿名提问👇",
   "location": "௵宇宙௵",
-  "link": "",
+  "link": "https://ngl.link/hequanjingyin",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2063574011272212721",
   "bio_entities": {
     "mentions": [
       {
-        "end": 45,
-        "start": 31,
+        "end": 77,
+        "start": 63,
         "username": "Tsukiyasakura"
       }
+    ],
+    "urls": [
+      {
+        "display_url": "t.me/Kagamine_8964",
+        "end": 130,
+        "expanded_url": "http://t.me/Kagamine_8964",
+        "start": 107,
+        "url": "https://t.co/oBTvsWsNpQ"
+      }
     ]
-  }
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg"
 }
